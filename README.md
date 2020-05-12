@@ -1,6 +1,6 @@
-MyFirstApp is the first Springboot application which will return you a greet message as on when you hit the below service URL.
+MyFirstApp is the first Springboot(2.2.6.RELEASE) application which will return you a greet message as on when you hit the below service URL.
 
-As part of this application I didn't do any customization like server port or internal db anything. So, application is running on default configurations like port is 8080.
+As part of this application,added customization like server port in application.yml file. So, application is running on port 9090.
 
 Created only one controller with hello request path. Controller class look like,
 
